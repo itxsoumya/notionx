@@ -1,0 +1,2 @@
+# notionx
+A Notion Clone
